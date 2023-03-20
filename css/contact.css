@@ -1,7 +1,7 @@
 .caja_gran{
     width: 50rem;
     height: auto;
-    background-color:rgb(202, 212, 212) ;
+    background-color: var(--color-pag);
     margin: auto;
 }
 
@@ -29,7 +29,7 @@
 .vac1{
     width: 44rem;
     height: 3rem;
-    background-color: bisque;
+    background-color: var(--color-cuadros);
 }
 
 
@@ -41,7 +41,7 @@
 .vac2{
     width: 44rem;
     height: 3rem;
-    background-color: bisque;
+    background-color: var(--color-cuadros);
 }
 
 
@@ -53,7 +53,7 @@
 .vac3{
     width: 44rem;
     height: 3rem;
-    background-color: bisque;
+    background-color: var(--color-cuadros);
 }
 
 
@@ -65,25 +65,26 @@
 .vac4{
     width: 44rem;
     height: 3rem;
-    background-color: bisque;
+    background-color: var(--color-cuadros);
 }
 
 .ultimo{
     width: 44rem;
     height: 3.5rem;
-    background-color: bisque;
+    background-color: var(--color-cuadros);
     font-size: 1.5rem;
-    padding: 1rem;
     margin-left: 3rem;
     text-align: center;
+    margin-top: 2rem;
+    border-radius: 1rem;
 }
 
 .vacgrande{
-    margin: 2rem;
+    margin: 3rem;
     margin-top: 3rem;
-    width: 46rem;
+    width: 44rem;
     height: 40rem;
-    background-color: bisque;
+    background-color: var(--color-cuadros);
 }
 
 /**********/
@@ -104,4 +105,50 @@
     text-align: center;
     font-size: 1.5rem;
     height: 15rem;
+}
+
+/*FOOTER*/
+.fin{
+    padding-top: 5rem;
+}
+
+.fin1{
+    height: 16rem;
+    background-color: var(--color-cuadros);
+}
+
+.fo1{
+    height: 10rem;
+    padding: 3rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.text10{
+    font-size: 3rem;
+}
+
+.bot01{
+    width: 8rem;
+    height: 5rem;
+    margin-left: 31rem;
+}
+
+.fo2{
+    height: 5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.textfin{
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 2rem;
+    margin-left: 3rem;
+}
+
+.link{
+    text-decoration: none;
 }

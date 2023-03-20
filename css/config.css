@@ -5,7 +5,11 @@
 }
 
 :root{
-        --color-texto:rgb(236, 208, 208);
+        --color-pag:rgb(161, 161, 161);
+        --color-circulo:rgb(181, 245, 245);
+        --color-cuadros:rgb(239, 245, 155);
+        --color-texto:rgb(7, 7, 7);
+
 }
 
 html{

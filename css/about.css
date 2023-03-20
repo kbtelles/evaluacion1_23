@@ -1,7 +1,7 @@
 .caja_gran{
     width: 50rem;
     height: auto;
-    background-color:rgb(202, 212, 212) ;
+    background-color: var(--color-pag);
     margin: auto;
 }
 
@@ -15,27 +15,40 @@
     height: 6rem;
     padding: 2rem;
 }
- 
+
 /* CAJA 1*/
-.one{
-    padding: 3rem;
-    width: auto;
-    height: 18rem;
+.imgone{
+    padding-top: 3rem;
+    width: 50rem;
+    height: 25rem;
+    position: relative;
 }
 
+
+
 .text1{
+    margin: -20rem;
+    margin-left: 4rem;
     font-size: 4rem;
+    position: absolute;
 }
 
 .text2{
+    margin: -16rem;
+    margin-left: 4rem;
     font-size: 2rem;
+    position: absolute;
+
 }
 
 .bot1{
-    margin-top: 1.5rem;
     width: 10rem;
     height: 3rem;
+    margin-top: 15rem;
+    margin-left: -46rem;
     border-radius: 0.2rem;
+    position: absolute;
+
 }
 
 /* CAJA 2*/
@@ -56,7 +69,7 @@
     margin-bottom: 1rem;
     width: 46rem;
     height: 20rem;
-    background-color: aqua;
+    background-color: var(--color-cuadros);
 }
 
 .text4{
@@ -79,7 +92,7 @@
 
     width: 46rem;
     height: 20rem;
-    background-color: rgb(255, 174, 0);
+    background-color: var(--color-cuadros);
 }
 
 .text6{
@@ -102,7 +115,7 @@
 
     width: 46rem;
     height: 20rem;
-    background-color: rgb(255, 174, 0);
+    background-color: var(--color-cuadros);
 }
 
 .text8{
@@ -117,9 +130,12 @@
 
 /*FOOTER*/
 .fin{
-    background-color: rgb(165, 165, 223);
-    padding-top: 8rem;
-    height: 25rem;
+    padding-top: 5rem;
+}
+
+.fin1{
+    height: 16rem;
+    background-color: var(--color-cuadros);
 }
 
 .fo1{
@@ -148,7 +164,12 @@
 }
 
 .textfin{
+    text-decoration: none;
     font-size: 2rem;
     margin: 2rem;
     margin-left: 3rem;
+}
+
+.link{
+    text-decoration: none;
 }

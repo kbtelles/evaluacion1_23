@@ -1,7 +1,7 @@
 .caja_gran{
     width: 50rem;
-    height: auto;
-    background-color:rgb(202, 212, 212) ;
+    height: 120.5rem;
+    background-color: var(--color-pag);
     margin: auto;
 }
 
@@ -34,7 +34,7 @@
     margin: 2rem;
     width: 46rem;
     height: 20rem;
-    background-color: antiquewhite;
+    background-color: var(--color-cuadros);
 }
 
 .clas2{
@@ -52,6 +52,7 @@
 }
 
 
+/**/
 .oneee{
     display: flex;
     flex-direction: row;
@@ -62,7 +63,7 @@
     width: 10rem;
     height: 10rem;
     border-radius: 5rem;
-    background-color: aqua;
+    background-color: var(--color-circulo);
 }
 
 .circulo2{
@@ -71,10 +72,175 @@
     width: 10rem;
     height: 10rem;
     border-radius: 5rem;
-    background-color: aqua;
+    background-color: var(--color-circulo);
 }
 
 .oneee1{
-    height: 20rem;
-    background-color:blueviolet
+    font-size: 1.5rem;
+    height: 3rem;
+    padding-left: 13rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.te0{
+    margin-right: 18rem;
+}
+
+.oneee1_1{
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 13.5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.te1{
+    margin-right: 18.5rem;
+}
+
+/**/
+.twoo{
+    display: flex;
+    flex-direction: row;
+}
+.circulo3{
+    margin-top:2rem;
+    margin-left: 10rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 5rem;
+    background-color: var(--color-circulo);
+}
+
+.circulo4{
+    margin-top:2rem;
+    margin-left: 11rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 5rem;
+    background-color: var(--color-circulo);
+}
+
+.two1{
+    font-size: 1.5rem;
+    height: 3rem;
+    padding-left: 12.5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.te2{
+    margin-right: 17rem;
+}
+
+.two1_1{
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 13rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.te3{
+    margin-right: 18.5rem;
+}
+
+/**/
+.threee{
+    display: flex;
+    flex-direction: row;
+}
+.circulo5{
+    margin-top:2rem;
+    margin-left: 10rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 5rem;
+    background-color: var(--color-circulo);
+}
+
+.circulo6{
+    margin-top:2rem;
+    margin-left: 11rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 5rem;
+    background-color: var(--color-circulo);
+}
+
+.three1{
+    font-size: 1.5rem;
+    height: 3rem;
+    padding-left: 12.5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.te4{
+    margin-right: 17rem;
+}
+
+.three1_1{
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 13rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.te5{
+    margin-right: 18.5rem;
+}
+
+/*FOOTER*/
+.fin{
+    padding-top: 5rem;
+}
+
+.fin1{
+    height: 16rem;
+    background-color: var(--color-cuadros);
+}
+
+.fo1{
+    height: 10rem;
+    padding: 3rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.text10{
+    font-size: 3rem;
+}
+
+.bot01{
+    width: 8rem;
+    height: 5rem;
+    margin-left: 31rem;
+}
+
+.fo2{
+    height: 5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.textfin{
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 2rem;
+    margin-left: 3rem;
+}
+
+.link{
+    text-decoration: none;
 }
