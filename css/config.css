@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+        --color-texto:rgb(236, 208, 208);
+}
+
+html{
+    font-size: 10px;
+    font-family: 'Caveat', cursive;}

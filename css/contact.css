@@ -1,0 +1,107 @@
+.caja_gran{
+    width: 50rem;
+    height: auto;
+    background-color:rgb(202, 212, 212) ;
+    margin: auto;
+}
+
+.footer{
+    width: 50rem;
+    height: 6rem;
+}
+
+.imgg{
+    width: 6rem;
+    height: 6rem;
+    padding: 2rem;
+}
+
+.cont1{
+    height: 18rem;
+    padding: 3rem;
+}
+
+.textt1{
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}
+
+.vac1{
+    width: 44rem;
+    height: 3rem;
+    background-color: bisque;
+}
+
+
+.cont2{
+    height: 10rem;
+    padding: 3rem;
+}
+
+.vac2{
+    width: 44rem;
+    height: 3rem;
+    background-color: bisque;
+}
+
+
+.cont3{
+    height: 10rem;
+    padding: 3rem;
+}
+
+.vac3{
+    width: 44rem;
+    height: 3rem;
+    background-color: bisque;
+}
+
+
+.cont4{
+    height: 10rem;
+    padding: 3rem;
+}
+
+.vac4{
+    width: 44rem;
+    height: 3rem;
+    background-color: bisque;
+}
+
+.ultimo{
+    width: 44rem;
+    height: 3.5rem;
+    background-color: bisque;
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin-left: 3rem;
+    text-align: center;
+}
+
+.vacgrande{
+    margin: 2rem;
+    margin-top: 3rem;
+    width: 46rem;
+    height: 40rem;
+    background-color: bisque;
+}
+
+/**********/
+.div1{
+    text-align: center;
+    font-size: 1.5rem;
+    height: 15rem;
+}
+
+.div2{
+    text-align: center;
+    font-size: 1.5rem;
+    height: 15rem;
+}
+
+.div3{
+    padding-top: 3rem;
+    text-align: center;
+    font-size: 1.5rem;
+    height: 15rem;
+}
