@@ -1,0 +1,17 @@
+.caja_gran{
+    width: 50rem;
+    height: auto;
+    background-color:rgb(202, 212, 212) ;
+    margin: auto;
+}
+
+.footer{
+    width: 50rem;
+    height: 6rem;
+}
+
+.imgg{
+    width: 6rem;
+    height: 6rem;
+    padding: 2rem;
+}
