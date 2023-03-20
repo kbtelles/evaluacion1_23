@@ -27,6 +27,9 @@
 }
 
 .vac1{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
     width: 44rem;
     height: 3rem;
     background-color: var(--color-cuadros);
@@ -39,6 +42,9 @@
 }
 
 .vac2{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
     width: 44rem;
     height: 3rem;
     background-color: var(--color-cuadros);
@@ -51,6 +57,9 @@
 }
 
 .vac3{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
     width: 44rem;
     height: 3rem;
     background-color: var(--color-cuadros);
@@ -63,6 +72,9 @@
 }
 
 .vac4{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    padding: 0.5rem;
     width: 44rem;
     height: 3rem;
     background-color: var(--color-cuadros);
