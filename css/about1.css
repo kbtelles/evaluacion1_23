@@ -1,12 +1,12 @@
 .caja_gran{
-    width: 50rem;
-    height: 120.5rem;
+    width: auto;
+    height: 105rem;
     background-color: var(--color-pag);
     margin: auto;
 }
 
 .footer{
-    width: 50rem;
+    width: auto;
     height: 6rem;
 }
 
@@ -32,7 +32,7 @@
 
 .vacc1{
     margin: 2rem;
-    width: 46rem;
+    width: 33.5rem;
     height: 20rem;
     background-color: var(--color-cuadros);
 }
@@ -59,7 +59,7 @@
 }
 .circulo1{
     margin-top:4rem;
-    margin-left: 10rem;
+    margin-left: 3.5rem;
     width: 10rem;
     height: 10rem;
     border-radius: 5rem;
@@ -78,7 +78,7 @@
 .oneee1{
     font-size: 1.5rem;
     height: 3rem;
-    padding-left: 13rem;
+    padding-left: 7rem;
 
     display: flex;
     flex-direction: row;
@@ -91,7 +91,7 @@
 .oneee1_1{
     font-size: 1rem;
     height: 3rem;
-    padding-left: 13.5rem;
+    padding-left: 7.5rem;
 
     display: flex;
     flex-direction: row;
@@ -108,7 +108,7 @@
 }
 .circulo3{
     margin-top:2rem;
-    margin-left: 10rem;
+    margin-left: 3.5rem;
     width: 10rem;
     height: 10rem;
     border-radius: 5rem;
@@ -127,27 +127,27 @@
 .two1{
     font-size: 1.5rem;
     height: 3rem;
-    padding-left: 12.5rem;
+    padding-left: 7rem;
 
     display: flex;
     flex-direction: row;
 }
 
 .te2{
-    margin-right: 17rem;
+    margin-right: 16rem;
 }
 
 .two1_1{
     font-size: 1rem;
     height: 3rem;
-    padding-left: 13rem;
+    padding-left: 7.5rem;
 
     display: flex;
     flex-direction: row;
 }
 
 .te3{
-    margin-right: 18.5rem;
+    margin-right: 17rem;
 }
 
 /**/
@@ -157,7 +157,7 @@
 }
 .circulo5{
     margin-top:2rem;
-    margin-left: 10rem;
+    margin-left: 3.5rem;
     width: 10rem;
     height: 10rem;
     border-radius: 5rem;
@@ -176,7 +176,7 @@
 .three1{
     font-size: 1.5rem;
     height: 3rem;
-    padding-left: 12.5rem;
+    padding-left: 6rem;
 
     display: flex;
     flex-direction: row;
@@ -189,22 +189,21 @@
 .three1_1{
     font-size: 1rem;
     height: 3rem;
-    padding-left: 13rem;
+    padding-left: 7rem;
 
     display: flex;
     flex-direction: row;
 }
 
 .te5{
-    margin-right: 18.5rem;
+    margin-right: 18rem;
 }
 
 /*FOOTER*/
-.fin{
-    padding-top: 5rem;
-}
+
 
 .fin1{
+    width: auto;
     height: 16rem;
     background-color: var(--color-cuadros);
 }
@@ -224,7 +223,7 @@
 .bot01{
     width: 8rem;
     height: 5rem;
-    margin-left: 31rem;
+    margin-left: 21rem;
 }
 
 .fo2{

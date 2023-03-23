@@ -1,17 +1,17 @@
 .caja_gran{
-    width: 50rem;
+    width: auto;
     height: auto;
     background-color: var(--color-pag);
     margin: auto;
 }
 
 .footer{
-    width: 50rem;
+    width: auto;
     height: 6rem;
 }
 
 .imgg{
-    width: 6rem;
+    width: auto;
     height: 6rem;
     padding: 2rem;
 }
@@ -19,7 +19,7 @@
 /* CAJA 1*/
 .imgone{
     padding-top: 3rem;
-    width: 50rem;
+    width: 37.5rem;
     height: 25rem;
     position: relative;
     background-color: var(--color-cuadros);
@@ -30,14 +30,14 @@
 
 .text1{
     margin: -20rem;
-    margin-left: 4rem;
+    margin-left: 3rem;
     font-size: 4rem;
     position: absolute;
 }
 
 .text2{
     margin: -16rem;
-    margin-left: 4rem;
+    margin-left: 3rem;
     font-size: 2rem;
     position: absolute;
 
@@ -47,7 +47,7 @@
     width: 10rem;
     height: 3rem;
     margin-top: 15rem;
-    margin-left: -46rem;
+    margin-left: -34rem;
     border-radius: 0.2rem;
     position: absolute;
 
@@ -56,7 +56,6 @@
 /* CAJA 2*/
 .two{
     padding-top: 3rem;
-    width: auto;
     height: 39rem;
 }
 
@@ -69,73 +68,21 @@
     margin-top: 2rem;
     margin-left: 2rem;
     margin-bottom: 1rem;
-    width: 46rem;
+    width: 33.5rem;
     height: 20rem;
     background-color: var(--color-cuadros);
 }
 
-.text4{
-    font-size: 2.5rem;
-    margin-left: 2rem;
-}
-
-.text5{
-    font-size: 2rem;
-    margin-left: 2rem;
-}
-
-/* CAJA 3 */
-.three{
-    height: 29rem;
-}
-.vacio1{
-    margin-left: 2rem;
-    margin-bottom: 1rem;
-
-    width: 46rem;
-    height: 20rem;
-    background-color: var(--color-cuadros);
-}
-
-.text6{
-    font-size: 2.5rem;
-    margin-left: 2rem;
-}
-
-.text7{
-    font-size: 2rem;
-    margin-left: 2rem;
-}
-
-/* CAJA 4 */
-.four{
-    height: 29rem;
-}
-.vacio2{
-    margin-left: 2rem;
-    margin-bottom: 1rem;
-
-    width: 46rem;
-    height: 20rem;
-    background-color: var(--color-cuadros);
-}
-
-.text8{
-    font-size: 2.5rem;
-    margin-left: 2rem;
-}
-
-.text9{
+.one h2{
     font-size: 2rem;
     margin-left: 2rem;
 }
 
 /*FOOTER*/
-.fin{
-    padding-top: 5rem;
-}
+
 
 .fin1{
+    width: auto;
     height: 16rem;
     background-color: var(--color-cuadros);
 }
@@ -155,7 +102,7 @@
 .bot01{
     width: 8rem;
     height: 5rem;
-    margin-left: 31rem;
+    margin-left: 21rem;
 }
 
 .fo2{

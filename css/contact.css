@@ -1,12 +1,12 @@
 .caja_gran{
-    width: 50rem;
+    width: auto;
     height: auto;
     background-color: var(--color-pag);
     margin: auto;
 }
 
 .footer{
-    width: 50rem;
+    width: 37.5rem;
     height: 6rem;
 }
 
@@ -30,7 +30,7 @@
     margin-top: 1rem;
     font-size: 1.5rem;
     padding: 0.5rem;
-    width: 44rem;
+    width: 31.5rem;
     height: 3rem;
     background-color: var(--color-cuadros);
 }
@@ -45,7 +45,7 @@
     margin-top: 1rem;
     font-size: 1.5rem;
     padding: 0.5rem;
-    width: 44rem;
+    width: 31.5rem;
     height: 3rem;
     background-color: var(--color-cuadros);
 }
@@ -60,7 +60,7 @@
     margin-top: 1rem;
     font-size: 1.5rem;
     padding: 0.5rem;
-    width: 44rem;
+    width: 31.5rem;
     height: 3rem;
     background-color: var(--color-cuadros);
 }
@@ -75,13 +75,13 @@
     margin-top: 1rem;
     font-size: 1.5rem;
     padding: 0.5rem;
-    width: 44rem;
+    width: 31.5rem;
     height: 3rem;
     background-color: var(--color-cuadros);
 }
 
 .ultimo{
-    width: 44rem;
+    width: 31.5rem;
     height: 3.5rem;
     background-color: var(--color-cuadros);
     font-size: 1.5rem;
@@ -94,7 +94,7 @@
 .vacgrande{
     margin: 3rem;
     margin-top: 3rem;
-    width: 44rem;
+    width: 31.5rem;
     height: 40rem;
     background-color: var(--color-cuadros);
 }
@@ -120,11 +120,10 @@
 }
 
 /*FOOTER*/
-.fin{
-    padding-top: 5rem;
-}
+
 
 .fin1{
+    width: auto;
     height: 16rem;
     background-color: var(--color-cuadros);
 }
@@ -144,7 +143,7 @@
 .bot01{
     width: 8rem;
     height: 5rem;
-    margin-left: 31rem;
+    margin-left: 21rem;
 }
 
 .fo2{

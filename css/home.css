@@ -1,14 +1,18 @@
 .home{
-    width: 50rem;
+    padding-top: 2rem;
+    width: auto;
     height: 64rem;
     background-color: var(--color-pag);
     margin: auto;
+    position: relative;
 }
 
 .img1{
     width: 2rem;
     height: 2rem;
     margin: 2rem;
+    position: absolute;
+
 }
 
 
