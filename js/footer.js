@@ -10,7 +10,7 @@ function footer(){
                 <a class="link" href="./home.html" >
                     <h1 class="textfin">Home</h1>
                 </a>
-                <a class="link" href="./about1.html">
+                <a class="link" href="./about.html">
                     <h1 class="textfin">About</h1>
                 </a>
                 <a  class="link" href="./contact.html">
