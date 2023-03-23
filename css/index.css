@@ -1,0 +1,124 @@
+.caja_gran{
+    width: auto;
+    height: auto;
+    background-color: var(--color-pag);
+    margin: auto;
+}
+
+.footer{
+    width: auto;
+    height: 6rem;
+}
+
+.imgg{
+    width: auto;
+    height: 6rem;
+    padding: 2rem;
+}
+
+/* CAJA 1*/
+.imgone{
+    padding-top: 3rem;
+    width: 37.5rem;
+    height: 25rem;
+    position: relative;
+    background-color: var(--color-cuadros);
+
+}
+
+
+
+.text1{
+    margin: -20rem;
+    margin-left: 3rem;
+    font-size: 4rem;
+    position: absolute;
+}
+
+.text2{
+    margin: -16rem;
+    margin-left: 3rem;
+    font-size: 2rem;
+    position: absolute;
+
+}
+
+.bot1{
+    width: 10rem;
+    height: 3rem;
+    margin-top: 15rem;
+    margin-left: -34rem;
+    border-radius: 0.2rem;
+    position: absolute;
+
+}
+
+/* CAJA 2*/
+.two{
+    padding-top: 3rem;
+    height: 39rem;
+}
+
+.text3{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.vacio{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    width: 33.5rem;
+    height: 20rem;
+    background-color: var(--color-cuadros);
+}
+
+.one h2{
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+
+/*FOOTER*/
+
+
+.fin1{
+    width: auto;
+    height: 16rem;
+    background-color: var(--color-cuadros);
+}
+
+.fo1{
+    height: 10rem;
+    padding: 3rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.text10{
+    font-size: 3rem;
+}
+
+.bot01{
+    width: 8rem;
+    height: 5rem;
+    margin-left: 21rem;
+}
+
+.fo2{
+    height: 5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.textfin{
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 2rem;
+    margin-left: 3rem;
+}
+
+.link{
+    text-decoration: none;
+}
